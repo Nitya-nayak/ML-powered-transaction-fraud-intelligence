@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 Live Demo
-👉 [Try TxIntel Live](your-streamlit-link-here)
+👉 ## 🚀 Live Demo
+👉 [Try TxIntel Live](https://ml-powered-transaction-fraud-intelligence-gjmpstpmlvqjkf3ro4r6.streamlit.app)
 
 ---
 
