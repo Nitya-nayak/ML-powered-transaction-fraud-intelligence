@@ -633,7 +633,7 @@ def insight2(df,schema):
     
     return df
 
-st.title("Malicious transaction detection project")
+st.title("ML-powered transaction fraud intelligence System")
 
 email  = st.text_input("Enter your email")
 df = None
