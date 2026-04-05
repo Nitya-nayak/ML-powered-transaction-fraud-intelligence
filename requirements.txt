@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+plotly
+python-dotenv
+sqlalchemy
+supabase
+psycopg2-binary
+scikit-learn
+xgboost
