@@ -11,3 +11,4 @@ psycopg2-binary
 scikit-learn
 xgboost
 psycopg[binary]
+openpyxl
